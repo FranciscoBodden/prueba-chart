@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: hello-container
-        image: nginxdemos/hello
+        image: developerogtic/plantilla-sdd:0cabe
         ports:
         - containerPort: 80
 ---
