@@ -20,7 +20,7 @@ spec:
       - name: hello-container
         image: developerogtic/plantilla-sdd:0cabe
         ports:
-        - containerPort: 80
+        - containerPort: 3000
 ---
 apiVersion: v1
 kind: Service

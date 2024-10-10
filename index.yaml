@@ -3,12 +3,12 @@ entries:
   prueba-concepto:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-10-10T11:21:24.305209-04:00"
+    created: "2024-10-10T11:59:55.138567-04:00"
     description: A Helm chart for Kubernetes
-    digest: a7013f73fa4f8eb8090cff142e6b0019e246294b4c405e9cbbc0b404c1a8191d
+    digest: c3d08eb3a0e051cd4f6b3533f737a055febab973f36032f8d74c37fb4d0b0281
     name: prueba-concepto
     type: application
     urls:
     - prueba-concepto-0.1.0.tgz
     version: 0.1.0
-generated: "2024-10-10T11:21:24.304611-04:00"
+generated: "2024-10-10T11:59:55.138211-04:00"
